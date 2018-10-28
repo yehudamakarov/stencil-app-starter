@@ -1,3 +1,11 @@
+# Test Production Built Assets
+
+Navigate to the root directory, and run the express server with `node index.js`.
+
+Open the developer tools in browser and navigate to the sources tab.
+
+Click the button on the page and see lazy loading in action.
+
 # Stencil App Starter
 
 Stencil is a compiler for building fast web apps using Web Components.
